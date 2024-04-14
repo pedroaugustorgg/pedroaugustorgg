@@ -1,7 +1,7 @@
 ### E aí, meus nobres!!!😁
 Criador do https://sites.google.com/view/tavernalaboriosa/
 
-Sem muita criatividade para preencher este "mural" no momento mas será atualizado de um jeito mais formal assim que possível 😉! 
+README minimalista no momento mas será atualizado de um jeito mais formal e detalhado assim que possível 😉! 
 
 <!--
 <div style="display: inline_block"><br>
