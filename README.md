@@ -1,7 +1,8 @@
 ### E aí, meus nobres!!!😁
 Criador do https://sites.google.com/view/tavernalaboriosa/
 
-README minimalista no momento mas será atualizado de um jeito mais formal e detalhado assim que possível 😉! 
+README minimalista pois no momento não atuo na área de desenvolvimento mas utilizo este perfil para manter repositórios de estudo.
+- **Obs.:** Estarei atualizando essa "bio" aqui de um jeito mais formal e detalhado assim que possível 😉! 
 
 <!--
 <div style="display: inline_block"><br>
