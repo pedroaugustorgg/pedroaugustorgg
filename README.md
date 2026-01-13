@@ -2,7 +2,6 @@
 Criador do https://sites.google.com/view/tavernalaboriosa/
 
 README minimalista pois no momento não atuo na área de desenvolvimento mas utilizo este perfil para manter repositórios de estudo.
-- **Obs.:** Estarei atualizando essa "bio" aqui de um jeito mais formal e detalhado assim que possível 😉! 
 
 <!--
 <div style="display: inline_block"><br>
@@ -19,7 +18,7 @@ README minimalista pois no momento não atuo na área de desenvolvimento mas uti
  
 <div> 
   <!--
-  <a href="https://www.youtube.com/channel/UCN7xAMj4JKDhiJYJyHnF0-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="http://www.youtube.com/@pedroguedes3166" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/feralmann" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   -->
   <a href = "mailto:pedroaugustorgg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
